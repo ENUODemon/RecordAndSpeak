@@ -1,28 +1,20 @@
 # 简介
+**姓名** 张志鸿  **电话**：18521092295
+
 11年net开发经验，熟悉各种技术，喜欢探讨，研究。也有相关机器学习开发的经验。对很多知识保持浓厚的兴趣。
 
-# 个人技能 
-精通 .net,设计模式 ，网络编程，并发编程以及垃圾回收机制。
+# 工作经历
 
-熟悉java技术栈（spring，springMVC , spring Cloud）
+2019-7-至今 博彦科技
 
-熟悉分布式事务，阅读2pc，TCC相关组件的源码，设计可靠消息最终一致性方案，最大努力通知方案。
+2012/1-2019/6 中软国际，上海微创
 
-精通sql server，mysql，具有sql优化，索引优化，性能调优，数据库灾备等丰富的经验。
+2010/12-2011/12 苏州客凯易技术有限公司 
 
-熟悉redis，MongoDB
+# 项目职责：
 
-熟悉ElasticSearch,熟悉ELK日志收集。了解azure的日志收集applicationInsight
+参与所有后端部分开发，以及少量前台开发
 
-消息中间件：熟悉rabbitMQ，RockerMQ ,kafka ,azure里的 ServiceBus
-
-负载均衡： 熟悉nginx,LVS,zookeeper.
-
-熟悉git相关操作
-
-熟悉docker，k8s
-
-熟悉windows内核编程，调试原理，Win32汇编，包括重载内核，inlinehook，pe32文件结构，使用过OD，windbg调试相关程序
 
 # 项目经验
 **SIS**:项目是一个大数据分析平台，里面有针对普通用户，微软mvp，以及微软Azure产品的相关数据分析。涉及大量的平台数据(如 Twitter、LinkedIn、Facebook、GitHub、StackOverflow、Meetup、WordPress、HackerNews、Reddit 等)。
@@ -51,6 +43,33 @@ Tinct 是一个分布式的任务编排系统，结合爬虫使用的一个大�
 
 
 **Transight** 是一个餐饮系统。主要有点餐系统（pos机和手机），用户管理系统，点餐系统（后台处理），价格管理，主店与子店的信息交互，权限管理。
+
+
+# 个人技能 
+熟悉eshop，网约车项目
+
+精通 .net,设计模式 ，网络编程，并发编程以及垃圾回收机制。
+
+熟悉java技术栈（spring，springMVC , spring Cloud）
+
+熟悉分布式事务，阅读2pc，TCC相关组件的源码，设计可靠消息最终一致性方案，最大努力通知方案。
+
+精通sql server，mysql，具有sql优化，索引优化，性能调优，数据库灾备等丰富的经验。
+
+熟悉redis，MongoDB
+
+熟悉ElasticSearch,熟悉ELK日志收集。了解azure的日志收集applicationInsight
+
+消息中间件：熟悉rabbitMQ，RockerMQ ,kafka ,azure里的 ServiceBus
+
+负载均衡： 熟悉nginx,LVS,zookeeper.
+
+熟悉git相关操作
+
+熟悉docker，k8s
+
+熟悉windows内核编程，调试原理，Win32汇编，包括重载内核，inlinehook，pe32文件结构，使用过OD，windbg调试相关程序
+
 
 # 教育
 
