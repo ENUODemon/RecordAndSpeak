@@ -6,3 +6,13 @@ elasticsearch index type doucument filed
 倒排索引 
 
 分词，去重，排序
+
+ELK
+
+elasticsearch
+
+logstash
+
+kibana
+
+filebeat
