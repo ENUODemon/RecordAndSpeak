@@ -35,7 +35,7 @@
 1.事务开始 标识 2. 命令入队 3 事务执行 
 不支持事务回滚
 
-乐观锁  cas check and set
+乐观锁  cas compare and swap
 
 11.redis 集群方案
 
