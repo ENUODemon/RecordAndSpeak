@@ -3,3 +3,7 @@ spark 的特点
 2. uniform data access
 3. hive integration 
 4. standard connectivity jdbc odbc
+
+
+编程模型
+rdd-dataframe(schema)-dataset(列式存储加dataframe)
