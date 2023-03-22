@@ -42,3 +42,54 @@ stuffed animal 填充玩物
 homey 家感觉
 cozy 温暖
 
+# 2023/3/9
+sound frequencies
+《迷失的传说》
+# 2023/3/10
+suitcase 行李
+packed 带了
+essentials 必需品
+《初来乍到》
+
+# 2023/3/11
+
+mess it up 搞砸
+《friends with benefits》
+
+# 2023/3/13
+solder 焊接
+braid 编发
+《变形金刚4》
+
+# 2023/3/14
+stereotypes 模式化的思想
+aspiration 强烈愿望
+immigrant 移民
+
+# 2023/3/15
+
+# 2023/3/16
+organic produce 有机农产品
+elementary school 小学
+《金妮与乔治娅》
+# 2023/3/17
+financial baggage  金融负担
+credit 借款
+freezers 冷藏室
+blackout看不见
+《破产姐妹》
+
+# 2023/3/18
+canteen 工厂军队食堂
+talent 艺人有才华的人
+outfit 全套装
+《了不起的麦瑟尔夫人》
+
+# 2023/3/20
+Down syndrome 唐氏综合征
+under your nose 在你眼皮底下
+into thin air 消失的无影无踪
+# 2023/3/21
+skydiving 跳伞
+chute 降落伞
+reserve 备用
