@@ -5,9 +5,6 @@ bitter 尖锐的
 irony 讽刺
 diplomatic 外交的 灵活变通的
 《魔法师的学徒》
-
-
-
 # 2023/3/1
 reach-out 与某人联系
 lecture 演讲 训斥
@@ -93,3 +90,33 @@ into thin air 消失的无影无踪
 skydiving 跳伞
 chute 降落伞
 reserve 备用
+# 2023/3/22
+sanitize 美化
+sales pitch 推销
+plan on 
+smirk at 特意嘲笑
+look for any excuse
+nefarious 不好的 邪恶的
+《星期三》
+
+# 2023/3/23
+offensive 冒犯的
+invent 发明
+nunchucks 双截棍
+《东邻西舍》
+
+# 2023/3/24
+polished 娴熟
+rehearse 演练
+trip sb up 让某人露出破含
+sucks 很糟糕
+《明信片杀戮》
+# 2023/3/24
+evict 驱逐
+《床伴逐个数》
+
+# 2023/3/25
+frer of charge 免费的
+queen suite 大号的
+king suite 超大号的
+nondairy creamer 非乳奶精
