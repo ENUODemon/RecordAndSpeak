@@ -115,8 +115,17 @@ sucks 很糟糕
 evict 驱逐
 《床伴逐个数》
 
-# 2023/3/25
+# 2023/3/27
 frer of charge 免费的
 queen suite 大号的
 king suite 超大号的
 nondairy creamer 非乳奶精
+
+# 2023/3/29
+suffcate 压制，窒息
+《吸血鬼后裔》
+
+# 2023/3/29
+camouflage 伪装
+predator 捕食者
+《暮光之城》
