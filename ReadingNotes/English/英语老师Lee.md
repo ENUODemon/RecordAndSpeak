@@ -129,3 +129,24 @@ suffcate 压制，窒息
 camouflage 伪装
 predator 捕食者
 《暮光之城》
+
+# 2023/3/31
+pilot 飞行员
+《猫鼠游戏》
+
+# 2023/4/1
+workforce 劳动力
+immigrants 移民
+《越狱》
+
+# 2023/4/3
+fanfare  宣传，宣传号角声
+《奇迹赛季》
+
+# 2023/4/4
+shoot 射杀 ，拍摄
+triller 惊悚片
+straight 连续
+
+# 2023/4/5
+《灰影人》
