@@ -150,3 +150,15 @@ straight 连续
 
 # 2023/4/5
 《灰影人》
+
+# 2023/4/6
+《波西杰克逊和神火之盗》
+
+# 2023/4/7
+detail 小分队
+restricted area 限制区
+co break room 狱警室
+《越狱》
+# 2023/4/8
+detention 留校
+simile 明喻
