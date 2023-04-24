@@ -162,3 +162,24 @@ co break room 狱警室
 # 2023/4/8
 detention 留校
 simile 明喻
+
+# 2023/4/10
+one's thing 某人喜欢的事情
+grow out of sth 长大不喜欢某事
+teenage phase 少女阶段 
+《职场心计文学梦》
+
+# 2023/4/11
+quarantine 隔离期
+unheard of 前所未有的
+
+out of whack 不正常
+
+# 2023/4/12
+appreciate 理解 明白
+fundraiser 募捐活动
+《来自普莱恩维尔的女孩》
+
+# 2023/4/13
+raise 抚养 
+《或许我愿意》
