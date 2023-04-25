@@ -168,18 +168,39 @@ one's thing 某人喜欢的事情
 grow out of sth 长大不喜欢某事
 teenage phase 少女阶段 
 《职场心计文学梦》
-
 # 2023/4/11
 quarantine 隔离期
 unheard of 前所未有的
-
 out of whack 不正常
-
 # 2023/4/12
 appreciate 理解 明白
 fundraiser 募捐活动
 《来自普莱恩维尔的女孩》
-
 # 2023/4/13
 raise 抚养 
 《或许我愿意》
+# 2023/4/14
+mop 拖把
+pads 垫子
+《唐璜》
+# 2023/4/15
+fancy 花哨的
+come up 
+《真命天子》
+# 2023/4/17
+severance 遣散费
+bugetarty cuts 预算塑件
+have feeler out 探听
+《早间主播》
+
+# 2023/4/19
+fall apart 破碎，奔溃
+be there for me 我身旁的人
+hate sb for 
+hate my guts 
+《之后》
+
+# 2023/4/20
+in more ways than one 在多个方面
+barn 谷仓 牲口棚
+《黑神驹》
