@@ -204,3 +204,21 @@ hate my guts
 in more ways than one 在多个方面
 barn 谷仓 牲口棚
 《黑神驹》
+
+
+# 2023/4/21
+plaything 玩物
+《模范家庭》
+
+# 2023/4/22
+
+anniversary 纪念日
+《东邻西舍》
+
+# 2023/4/24
+pushy 令人不满压
+head start 领先
+《生活大爆炸》
+
+# 2023/4/25
+decade 10年
