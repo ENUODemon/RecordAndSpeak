@@ -237,4 +237,24 @@ play me 甩我
 
 # 2023/5/4
 decrepit 衰老的
-《六场危事》
+《》六场危事
+
+# 2023/5/5
+creack the winddow 后窗留个缝
+make sb 迫使某人做某事
+
+# 2023/5/6
+on a set 在片场
+shoot 拍摄
+pan 游动拍摄
+
+# 2023/5/7
+swipe 挥扫
+eyelid 眼皮
+brow 眉毛
+
+# 2023/5/9
+contractor 承包商
+remodel 改建
+hazard 危险 危害
+《怒呛人生》
