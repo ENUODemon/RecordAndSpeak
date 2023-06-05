@@ -258,3 +258,50 @@ contractor 承包商
 remodel 改建
 hazard 危险 危害
 《怒呛人生》
+
+# 2023/5/10
+red dates 红枣
+goji 枸杞
+splintered 破碎的
+《初来乍到》
+
+# 2023/5/11
+hurricane 飓风
+avalanche 雪崩
+landslide 山崩
+《分手信》
+# 2023/5/12
+stripe 条纹的
+pregnant 怀孕
+
+# 2023/5/13
+works of literature 文学作品
+principal sb 校长
+《萨布丽娜的惊心冒险》
+
+# 2023/5/15
+talent show 才艺表演
+factions 派系
+witch 女巫
+《吸血鬼后裔》
+# 2023/5/16
+sacrifice 牺牲
+《纸牌屋》
+
+# 2023/5/17
+ditch 抛弃丢弃
+step on 踩 快点
+《永远十六岁》
+# 2023/5/18
+monopoly 垄断 大富翁
+
+# 2023/5/19
+be up all night 整晚没睡
+《致命女人》
+
+# 2023/5/20
+pour my hear 打开心声
+open up 畅所欲言
+compliments 赞扬
+《十三个原因》
+
