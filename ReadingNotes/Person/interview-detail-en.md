@@ -1,109 +1,148 @@
+# Profile  
+**Name**: Zhang Zhihong  
+**Phone**: 18521092295  
 
-# introduction
-**Name** Zhang Zhihong    **Phone**:18521092295
+15 years of .NET development experience, proficient in various technologies. Passionate about research and discussion, with hands-on experience in machine learning development. Maintains strong curiosity across multiple domains.  
 
-11 years of net development experience, familiar with various technologies, like to explore, research. There is also experience in machine learning development. Keep a keen interest in a lot of knowledge. 
+---
 
-# Work experience
-2019-7-Now beyondsoft
+# Work Experience  
 
-2012/1-2019/6 ChinaSoft, Shanghai Wicesoft
+**2019/7–Present** BeyondSoft  
+**2012/1–2019/6** Chinasoft International / Shanghai Wicresoft (same project)  
+**2010/12–2011/12** CACI Technologies (Suzhou)  
 
-2010/12-2011/12 Suzhou Cuscapi Co., Ltd
+---
 
-# Project responsibilities:
-**2019 - / 7 – Now beyondsoft**
-1. Development and maintenance of partner website background service
-2. Azure deployment of partner website, API development (data service), cross domain access, etc. and authority authentication function development
-3. Partner data analysis to find out the impact of relevant factors, positive correlation, negative correlation, etc.
-4. Research on NLP emotion analysis, classification and deep learning.
-5. Dynamic planning of relevant workflow can make efficiency develop in a good direction
-6. Some results and linkage of the algorithm are displayed on the page.
-7. Research, development and use of power Bi related controls
+# Key Responsibilities  
 
-**2012/1-2019/6 ChinaSoft, Shanghai Wicesoft**
-1. Data capture on multiple platforms
-2. Data maintenance, optimization, tuning and ETL related work
-3. Design and development of tinct crawler
-4. Design and development of tinct distributed scheduling system.
-5. Automation of the whole data flow process, design and development of monitoring.
-6. Provide SIS related user data through webapi.
-7. Construction and use of elasticsearch.
-8. Create and merge user profiles of SIS project. And find people with strong influence.
-9. Development of reptile azure migration version.
+## **2019/7–Present | BeyondSoft**  
+1. Research and implementation of Semantic Kernel (agents, workflow applications).  
+2. Backend service development and maintenance for web platforms.  
+3. Azure deployment, API development (data services), CORS, and authentication.  
+4. NLP tasks: sentiment analysis, text classification, and deep learning research.  
+5. Visualizing algorithm outputs via interactive dashboards.  
+6. Power BI component development and integration.  
 
-**2010/12-2011/12 Suzhou Cuscapi Co., Ltd**
-1. Front and rear end development of restaurant system
-2. Database performance optimization.
+## **2012/1–2019/6 | Chinasoft/Wicresoft**  
+1. Multi-platform data scraping solutions.  
+2. Database optimization, ETL pipelines, and performance tuning.  
+3. Design/development of **Tinct** (distributed crawler system).  
+4. Distributed task scheduling system architecture.  
+5. End-to-end automation and monitoring for data workflows.  
+6. WebAPI development for **SIS** (user data services).  
+7. ElasticSearch cluster setup and utilization.  
+8. User profiling and influencer identification in SIS.  
+9. Azure migration of crawler infrastructure.  
 
+## **2010/12–2011/12 | CACI Technologies**  
+1. Full-stack development for restaurant management systems.  
+2. Database performance optimization.  
 
-# Project experience
+---
 
-**SIS**: Project is a big data analytics platform with data analysis for ordinary users, Microsoft mvp, and Microsoft Azure products. Involves a large amount of platform data (e.g. Twitter, LinkedIn, Facebook, GitHub, StackOverflow, Meetup, WordPress, HackerNews, Reddit, etc.). 
-1. User behavior analysis, the establishment of user portraits, content analysis, user-by-platform data analysis. Merge related users. User network.
-2. MVP related impact analysis, technical point analysis. For community contribution analysis, and so on.
-3. Social network analysis, recommended system.
-4. Product data analysis on a platform (e.g. azure in StackOverflow, github influence). Compare similar product analysis.
-The whole is related to the display of front-office related data, background logical processing, database layer logical analysis, as well as spider related work, is a multi-technical point involved in the big data analysis platform.
+# Project Experience  
 
-**Tinct** is a distributed task orchestration system that combines reptiles with a wide range of data crawling tools.  The platforms involved are github, facebook, quora and many other platforms. 
+## **AI-Powered Q&A System - SupportInsightCopilot**  
+**Stack**: C#/ASP.NET Core · React+Vite · OAuth 2.0 · Azure/AWS · Azure OpenAI · Semantic Kernel  
 
-**spider**:   A typical production consumer Pattern. Design three parts, 
-1.	Various spider are targeted at different needs, such as pages, database docking, api calls, rest service calls, network access restrictions, security, and their own multithreaded scheduling, and so on.
-2.	For different platforms there will be different analyzers to analyze, extract, and convert crawled content. Form a data flow
-3.	Data from the Data Flow Center unified management analysis layer, persisting the data to different places. The current primary database, and then interacts with the database. For example, sub-tables, merged operations.
-The entire process uses custom thread scheduling to localize the message queue to store intermediate information and reserve some interfaces for expansion. Examples include scheduling, message queues, and data center processing.
+### Overview  
+- NLP-driven Q&A system for knowledge retrieval, KPI analysis, contact lookup, and automated reporting.  
 
+### Features  
+- **Natural Language Processing**  
+  - Azure OpenAI-powered responses with multi-turn dialogue support.  
+  - Example: Query "SLA standards for Product X" triggers contextual answers.  
+- **Data Analytics**  
+  - Natural language-to-SQL translation with visualization (charts/tables).  
+- **AI Forecasting**  
+  - Python-integrated predictive models.  
 
-The **Tinct** principal part is a distributed task distribution system that forwards tasks to individual nodes for operation. 
-Cluster management in master-slave mode,
-1. Use the heart mechanism to record the state of the machine.  
-2. Error correction.  
-3. Task dispatch functionality.  
-4. Dynamically execute code.  
-5. Down machine recovery function
+### Tech Highlights  
+- **Backend**: ASP.NET Core web APIs , JWT/OAuth 2.0.  
+- **Frontend**: React+Vite dynamic UI.  
+- **Deployment**: Azure CI/CD pipelines.  
 
-**Partner** is a comprehensive evaluation system oriented by data analysis,
+---
 
-1. Collect information about relevant partners,
-2. Analyze the partner through various KPI related indicators.
-3. Analyze by predicting future behavior.
-4. Push related services.
-5. Find new partners.
+# TUV Vehicle Regulations Intelligent Monitoring Platform  
 
+### Project Responsibilities  
+- Developed a stable and efficient web crawler system using C# to collect regulatory texts, policy updates, and PDF attachments from major global vehicle regulatory agencies (e.g., NHTSA, EU Traffic Authority, etc.)  
+- Responsible for the design, development, and maintenance of the entire crawler module, ensuring data accuracy and timeliness  
 
-**Transight**  is a catering system. Mainly a bit of the catering system(pos machine and mobile phone), user management system, ordering system (background processing), price management, main store and sub-store information interaction, rights management. 
+### Technical Implementation  
+- **Core Framework**: Built the crawler's foundational framework based on HttpClient  
+- **Anti-Scraping Measures**:  
+  - Implemented intelligent request interval control to comply with target websites' Robots.txt rules  
+  - Designed an automatic retry strategy to handle the instability of government websites  
+- **Content Extraction**:  
+  - Used XPath to precisely locate regulatory content in HTML pages  
+  - Developed a regex engine to extract key fields (e.g., regulation numbers, effective dates)  
+- **Data Processing**:  
+  - Designed a data cleaning pipeline to effectively remove webpage noise  
+  - Stored processed structured data in a database  
 
+### Project Achievements  
+- Successfully established a data collection network covering 50+ authoritative websites  
+- Achieved daily automated monitoring of regulatory updates  
+- Provided high-quality data support for downstream analysis platforms  
 
-# Personal skills:
-Familiar with eshop,Online car Hailing project
+## **Pharmaceutical Compensation & Approval System (UCB)**  
+**Stack**: .NET Framework · Angular.js  
 
-Mastery of .net, design patterns, network programming, concurrent programming, and garbage collection mechanisms. 
+### Overview  
+Digital platform for **tax compensation management** and **multi-level approvals** in pharma industry.  
 
-Familiar with the java  technology stack(spring,springMVC, spring Cloud).
+### Key Modules  
+1. **Compensation Management**  
+   - Multi-dimensional analytics (drug type/region/enterprise).  
+   - Automated Excel/PDF reporting.  
+2. **Document Processing**  
+   - Batch upload (Excel/PDF) with validation rules.  
+3. **Approval Workflow**  
+   - Customizable nodes (Finance→Legal→Leadership).  
+4. **Security & Audit**  
+   - Role-based access control (RBAC) and activity logging.  
 
-Familiar with distributed transactions, read the source code of 2pc,TCC-related components, design reliable message final consistency schemes, and make the best efforts to notify scenarios. 
+---
 
-Fluent in sql  server,mysql,with experiencein sql optimization, index optimization, performance tuning, database disaster preparedness, and more. 
+## **SIS - Big Data Analytics Platform**  
+### Features  
+- Cross-platform analysis (Twitter/LinkedIn/etc.).  
+- Three analysis dimensions:  
+  1. User profiling and network mapping.  
+  2. MVP influence scoring.  
+  3. Product benchmarking (e.g., Azure adoption).  
+- Full-stack architecture: Frontend + backend + crawlers.  
 
-Familiar with redis,MongoDB
+---
 
-Familiar with ElasticSearch and  ELK log collection. Learn about azure's log collection applicationInsight 
+## **Tinct - Distributed Task Orchestration**  
+### Crawler Module  
+- Multi-mode scraping (web/API/database).  
+- Platform-specific parsers.  
 
-Message middleware: Familiar with rabbitMQ,RockerMQ,  kafka, serviceBus in  azure
+### Distributed Core  
+- Master-Slave architecture with fault tolerance.  
 
-Load balancing: familiar with nginx, LVS, zookeeper
+---
 
-Familiar with git-related operations
+## **Transight - Restaurant Management System**  
+- Dual ordering (POS + mobile).  
+- Multi-location coordination.  
 
-Familiar with docker，k8s
+---
 
-Familiar with windows kernel programming, debugging principles,Win32 compilations, including overloaded kernels,inlinehook,pe32 file structures, used OD,  Windbg debugs the relevant program
+# Technical Skills  
+- **Languages**: C#, Java (Spring/Spring Cloud)  
+- **Databases**: SQL Server/MySQL (optimization), Redis/MongoDB  
+- **Middleware**: RabbitMQ/Kafka/Azure Service Bus  
+- **DevOps**: Docker/K8s, Azure CI/CD  
+- **Other**: ElasticSearch/ELK, Win32 kernel debugging (Windbg/OD)  
 
-# Education
+---
 
-Bachelor of Mathematics and Applied Mathematics | Jiangsu University 2006-2010
-
-Sixth Middle School, Danyang City, Jiangsu  Province, 2003-2006
-
-
+# Education  
+- **B.Sc. in Mathematics** | Jiangsu University (2006–2010)  
+- **High School** | Danyang No.6 High School (2003–2006)  

@@ -2,7 +2,7 @@
 # introduction
 **Name** Zhang Zhihong    **Phone**:18521092295
 
-11 years of net development experience, familiar with various technologies, like to explore, research. There is also experience in machine learning development. Keep a keen interest in a lot of knowledge. 
+15 years of net development experience, familiar with various technologies, like to explore, research. There is also experience in machine learning development. Keep a keen interest in a lot of knowledge. 
 
 # Work experience
 2019-7-Now beyondsoft
@@ -14,64 +14,110 @@
 # Project responsibilities:
 Participate in all back-end part development, as well as a litter front-end development
 
-# Project experience
+# Project Experience  
 
-**SIS**: Project is a big data analytics platform with data analysis for ordinary users, Microsoft mvp, and Microsoft Azure products. Involves a large amount of platform data (e.g. Twitter, LinkedIn, Facebook, GitHub, StackOverflow, Meetup, WordPress, HackerNews, Reddit, etc.). 
-1. User behavior analysis, the establishment of user portraits, content analysis, user-by-platform data analysis. Merge related users. User network.
-2. MVP related impact analysis, technical point analysis. For community contribution analysis, and so on.
-3. Social network analysis, recommended system.
-4. Product data analysis on a platform (e.g. azure in StackOverflow, github influence). Compare similar product analysis.
-The whole is related to the display of front-office related data, background logical processing, database layer logical analysis, as well as spider related work, is a multi-technical point involved in the big data analysis platform.
+## **AI-Powered Q&A System - SupportInsightCopilot**  
+**Stack**: C#/ASP.NET Core · React+Vite · OAuth 2.0 · Azure/AWS · Azure OpenAI · Semantic Kernel  
 
-**Tinct** is a distributed task orchestration system that combines reptiles with a wide range of data crawling tools.  The platforms involved are github, facebook, quora and many other platforms. 
+### Overview  
+- NLP-driven Q&A system for knowledge retrieval, KPI analysis, contact lookup, and automated reporting.  
 
-**spider**:   A typical production consumer Pattern. Design three parts, 
-1.	Various spider are targeted at different needs, such as pages, database docking, api calls, rest service calls, network access restrictions, security, and their own multithreaded scheduling, and so on.
-2.	For different platforms there will be different analyzers to analyze, extract, and convert crawled content. Form a data flow
-3.	Data from the Data Flow Center unified management analysis layer, persisting the data to different places. The current primary database, and then interacts with the database. For example, sub-tables, merged operations.
-The entire process uses custom thread scheduling to localize the message queue to store intermediate information and reserve some interfaces for expansion. Examples include scheduling, message queues, and data center processing.
+### Features  
+- **Natural Language Processing**  
+  - Azure OpenAI-powered responses with multi-turn dialogue support.  
+  - Example: Query "SLA standards for Product X" triggers contextual answers.  
+- **Data Analytics**  
+  - Natural language-to-SQL translation with visualization (charts/tables).  
+- **AI Forecasting**  
+  - Python-integrated predictive models.  
+
+### Tech Highlights  
+- **Backend**: ASP.NET Core APIs , JWT/OAuth 2.0.  
+- **Frontend**: React+Vite .  
+- **Deployment**: Azure CI/CD pipelines.  
+
+---
+
+# TUV Vehicle Regulations Intelligent Monitoring Platform  
+
+### Project Responsibilities  
+- Developed a stable and efficient web crawler system using C# to collect regulatory texts, policy updates, and PDF attachments from major global vehicle regulatory agencies (e.g., NHTSA, EU Traffic Authority, etc.)  
+- Responsible for the design, development, and maintenance of the entire crawler module, ensuring data accuracy and timeliness  
+
+### Technical Implementation  
+- **Core Framework**: Built the crawler's foundational framework based on HttpClient  
+- **Anti-Scraping Measures**:  
+  - Implemented intelligent request interval control to comply with target websites' Robots.txt rules  
+  - Designed an automatic retry strategy to handle the instability of government websites  
+- **Content Extraction**:  
+  - Used XPath to precisely locate regulatory content in HTML pages  
+  - Developed a regex engine to extract key fields (e.g., regulation numbers, effective dates)  
+- **Data Processing**:  
+  - Designed a data cleaning pipeline to effectively remove webpage noise  
+  - Stored processed structured data in a database  
+
+### Project Achievements  
+- Successfully established a data collection network covering 50+ authoritative websites  
+- Achieved daily automated monitoring of regulatory updates  
+- Provided high-quality data support for downstream analysis platforms  
 
 
-The **Tinct** principal part is a distributed task distribution system that forwards tasks to individual nodes for operation. 
-Cluster management in master-slave mode,
-1. Use the heart mechanism to record the state of the machine.  
-2. Error correction.  
-3. Task dispatch functionality.  
-4. Dynamically execute code.  
-5. Down machine recovery function
+## **Pharmaceutical Compensation & Approval System (UCB)**  
+**Stack**: .NET Framework · Angular.js  
 
-**Transight**  is a catering system. Mainly a bit of the catering system(pos machine and mobile phone), user management system, ordering system (background processing), price management, main store and sub-store information interaction, rights management. 
+### Overview  
+Digital platform for **tax compensation management** and **multi-level approvals** in pharma industry.  
 
+### Key Modules  
+1. **Compensation Management**  
+   - Multi-dimensional analytics (drug type/region/enterprise).  
+   - Automated Excel/PDF reporting.  
+2. **Document Processing**  
+   - Batch upload (Excel/PDF) with validation rules.  
+3. **Approval Workflow**  
+   - Customizable nodes (Finance→Legal→Leadership).  
+4. **Security & Audit**  
+   - Role-based access control (RBAC) and activity logging.  
 
-# Personal skills:
-Familiar with eshop,Online car Hailing project
+---
 
-Mastery of .net, design patterns, network programming, concurrent programming, and garbage collection mechanisms. 
+## **SIS - Big Data Analytics Platform**  
+### Features  
+- Cross-platform analysis (Twitter/LinkedIn/etc.).  
+- Three analysis dimensions:  
+  1. User profiling and network mapping.  
+  2. MVP influence scoring.  
+  3. Product benchmarking (e.g., Azure adoption).  
+- Full-stack architecture: Frontend + backend + crawlers.  
 
-Familiar with the java  technology stack(spring,springMVC, spring Cloud).
+---
 
-Familiar with distributed transactions, read the source code of 2pc,TCC-related components, design reliable message final consistency schemes, and make the best efforts to notify scenarios. 
+## **Tinct - Distributed Task Orchestration**  
+### Crawler Module  
+- Multi-mode scraping (web/API/database).  
+- Platform-specific parsers.  
 
-Fluent in sql  server,mysql,with experiencein sql optimization, index optimization, performance tuning, database disaster preparedness, and more. 
+### Distributed Core  
+- Master-Slave architecture with fault tolerance.  
 
-Familiar with redis,MongoDB
+---
 
-Familiar with ElasticSearch and  ELK log collection. Learn about azure's log collection applicationInsight 
+## **Transight - Restaurant Management System**  
+- Dual ordering (POS + mobile).  
+- Multi-location coordination.  
 
-Message middleware: Familiar with rabbitMQ,RockerMQ,  kafka, serviceBus in  azure
+---
 
-Load balancing: familiar with nginx, LVS, zookeeper
+# Technical Skills  
+- **Languages**: C#, Java (Spring/Spring Cloud)  
+- **Databases**: SQL Server/MySQL (optimization), Redis/MongoDB  
+- **Middleware**: RabbitMQ/Kafka/Azure Service Bus  
+- **DevOps**: Docker/K8s, Azure CI/CD  
+- **Other**: ElasticSearch/ELK, Win32 kernel debugging (Windbg/OD)  
 
-Familiar with git-related operations
+---
 
-Familiar with docker，k8s
-
-Familiar with windows kernel programming, debugging principles,Win32 compilations, including overloaded kernels,inlinehook,pe32 file structures, used OD,  Windbg debugs the relevant program
-
-# Education
-
-Bachelor of Mathematics and Applied Mathematics | Jiangsu University 2006-2010
-
-Sixth Middle School, Danyang City, Jiangsu  Province, 2003-2006
-
+# Education  
+- **B.Sc. in Mathematics** | Jiangsu University (2006–2010)  
+- **High School** | Danyang No.6 High School (2003–2006)  
 
