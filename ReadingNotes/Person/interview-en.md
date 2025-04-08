@@ -38,7 +38,7 @@ Participate in all back-end part development, as well as a litter front-end deve
 
 ---
 
-# TUV Vehicle Regulations Intelligent Monitoring Platform  
+#  Vehicle Regulations Intelligent Monitoring Platform  
 
 ### Project Responsibilities  
 - Developed a stable and efficient web crawler system using C# to collect regulatory texts, policy updates, and PDF attachments from major global vehicle regulatory agencies (e.g., NHTSA, EU Traffic Authority, etc.)  
@@ -62,7 +62,7 @@ Participate in all back-end part development, as well as a litter front-end deve
 - Provided high-quality data support for downstream analysis platforms  
 
 
-## **Pharmaceutical Compensation & Approval System (UCB)**  
+## **Pharmaceutical Compensation & Approval System **  
 **Stack**: .NET Framework · Angular.js  
 
 ### Overview  

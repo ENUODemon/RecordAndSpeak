@@ -17,12 +17,14 @@
 # Key Responsibilities  
 
 ## **2019/7–Present | BeyondSoft**  
-1. Research and implementation of Semantic Kernel (agents, workflow applications).  
-2. Backend service development and maintenance for web platforms.  
-3. Azure deployment, API development (data services), CORS, and authentication.  
-4. NLP tasks: sentiment analysis, text classification, and deep learning research.  
-5. Visualizing algorithm outputs via interactive dashboards.  
-6. Power BI component development and integration.  
+1. Conduct in-depth research and application of semantic-kernel technology, including but not limited to the use of agents and the practice of process-oriented applications.
+2. Undertake the development and maintenance of website backend services to ensure stable system operation.
+3. Responsible for the deployment of the website on the Azure platform, including API development (data services), handling cross-origin access issues, and developing permission authentication functionalities.
+4. Conduct research in the field of Natural Language Processing (NLP), focusing on sentiment analysis, text classification, and deep learning-related topics.
+5. Effectively integrate algorithmic research results with front-end pages to achieve data visualization.
+6. Research and apply Power BI-related controls to support data analysis and report generation.
+7. Continuously optimize backend service performance to enhance user experience and system efficiency.
+8. Collaborate closely with the team to jointly address technical challenges and drive project progress.
 
 ## **2012/1–2019/6 | Chinasoft/Wicresoft**  
 1. Multi-platform data scraping solutions.  
@@ -65,7 +67,7 @@
 
 ---
 
-# TUV Vehicle Regulations Intelligent Monitoring Platform  
+#  Vehicle Regulations Intelligent Monitoring Platform  
 
 ### Project Responsibilities  
 - Developed a stable and efficient web crawler system using C# to collect regulatory texts, policy updates, and PDF attachments from major global vehicle regulatory agencies (e.g., NHTSA, EU Traffic Authority, etc.)  
@@ -88,7 +90,7 @@
 - Achieved daily automated monitoring of regulatory updates  
 - Provided high-quality data support for downstream analysis platforms  
 
-## **Pharmaceutical Compensation & Approval System (UCB)**  
+## **Pharmaceutical Compensation & Approval System **  
 **Stack**: .NET Framework · Angular.js  
 
 ### Overview  
